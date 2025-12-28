@@ -1,7 +1,3 @@
-# Code adapted from PSTTransformer by Hehe Fan
-# GitHub: https://github.com/hehefan/PST-Transformer/blob/main/modules/point_4d_convolution.py
-# Accessed on May 23, 2024
-
 import torch
 import torch.nn as nn
 import torch.nn.functional as F

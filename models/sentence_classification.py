@@ -1,7 +1,3 @@
-# Portions of this code are adapted from PSTTransformer by Hehe Fan
-# GitHub: https://github.com/hehefan/PST-Transformer/blob/main/models/sequence_classification.py
-# Accessed on May 23, 2024
-
 import torch
 import torch.nn.functional as F
 from torch import nn
